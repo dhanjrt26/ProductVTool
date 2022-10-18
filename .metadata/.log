@@ -974,3 +974,27 @@ org.eclipse.jgit.errors.TransportException: Nothing to push.
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-19 05:35:32.656
 !MESSAGE Boot LS startup time from start to initialized: 1743ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-19 05:37:59.263
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-19 05:37:59.264
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6f61d8bc[org.springframework.tooling.boot.ls:1.38.0.202208110704(id=1026)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-19 05:37:59.265
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-19 05:38:00.970
+!MESSAGE Boot LS startup time from start to initialized: 1705ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-19 05:40:17.359
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-19 05:40:17.359
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6f61d8bc[org.springframework.tooling.boot.ls:1.38.0.202208110704(id=1026)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-19 05:40:17.360
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-19 05:40:19.004
+!MESSAGE Boot LS startup time from start to initialized: 1643ms
