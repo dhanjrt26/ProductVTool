@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\danil\\git\\repository-azure\\.git;C\:\\Users\\danil\\git\\TechnoGadgetsGuyPh\\.git;C\:\\Users\\danil\\git\\repository\\.git;C\:\\Users\\danil\\git\\repo-azure\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\danil\\git\\repository-azure\\.git;C\:\\Users\\danil\\git\\TechnoGadgetsGuyPh\\.git;C\:\\Users\\danil\\git\\repository\\.git;C\:\\Users\\danil\\git\\repo-azure\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\danil\\eclipse-workspace\\.git;C\:\\Users\\danil\\git\\technogadgetsguyph\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\danil\\git\\technogadgetsguyph\\.git;
 RepositorySearchDialogSearchPath=C\:\\Users\\danil\\git
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
