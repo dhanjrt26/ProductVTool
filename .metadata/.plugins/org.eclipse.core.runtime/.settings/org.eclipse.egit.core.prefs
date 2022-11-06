@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\danil\\eclipse-workspace\\.git;C\:\\Users\\danil\\git\\technogadgetsguyph\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\danil\\git\\technogadgetsguyph\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\danil\\eclipse-workspace\\.git;C\:\\Users\\danil\\git\\technogadgetsguyph\\.git;C\:\\Users\\danil\\eclipse-workspace\\technogadgetsguyph\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\danil\\git\\technogadgetsguyph\\.git;technogadgetsguyph\\.git;
 RepositorySearchDialogSearchPath=C\:\\Users\\danil\\git
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
