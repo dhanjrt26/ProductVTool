@@ -3,11 +3,12 @@
 	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="1"/>
 	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\danil\git\technogadgetsguyph\.git"/>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/marcushellberg/spring-boot-todo.git"/>
 		<item value="https://github.com/dhanjrt26/technogadgetsguyph.git"/>
 	</list>
 	<list key="EGit.KnownHosts">
-		<item value="bitbucket.org"/>
 		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
 		<item value="github.com"/>
 	</list>
 	<list key="CommitDialog.authorValues">
@@ -26,14 +27,7 @@
 	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="C:\Users\danil\eclipse-workspace\.git">
-			<item value="false"/>
-			<item value="dhanjrt &lt;danilotorrejosjr@gmail.com&gt;"/>
-			<item value="ffff"/>
-			<item value="dhanjrt &lt;danilotorrejosjr@gmail.com&gt;"/>
-			<item value="486b14937698a7656b1d2c83cc48cd17dd274483"/>
-			<item value="0"/>
-			<item value="false"/>
-			<item value=""/>
+			<item value="empty"/>
 		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
